@@ -45,7 +45,7 @@
 > [Reference]
 > https://www.irfanview.com/main_history.htm
 
-# CVE-2019-17242.
+# CVE-2019-17242
 
 
 ### Description
@@ -94,7 +94,7 @@
 > https://www.irfanview.com/main_history.htm
 
 
-# CVE-2019-17243.
+# CVE-2019-17243
 
 # Description
 > IrfanView 4.53 allows Data from a Faulting Address to control Code Flow starting at JPEG_LS+0x0000000000003155.
@@ -137,7 +137,7 @@
 > https://www.irfanview.com/main_history.htm
 
 
-# CVE-2019-17244.
+# CVE-2019-17244
 
 ### Description
 > IrfanView 4.53 allows Data from a Faulting Address to control Code Flow starting at JPEG_LS+0x0000000000001d8a.
@@ -180,7 +180,7 @@
 > https://www.irfanview.com/main_history.htm
 
 
-# CVE-2019-17245.
+# CVE-2019-17245
 ### Description
 > IrfanView 4.53 allows a User Mode Write AV starting at WSQ!ReadWSQ+0x0000000000004359.
 >
@@ -227,7 +227,7 @@
 > https://www.irfanview.com/main_history.htm
 
 
-# CVE-2019-17246.
+# CVE-2019-17246
 ### Description
 > IrfanView 4.53 allows a User Mode Write AV starting at WSQ!ReadWSQ+0x000000000000258c.
 >
@@ -489,7 +489,7 @@
 
 
 
-# CVE-2019-17252.
+# CVE-2019-17252
 ### Description
 > IrfanView 4.53 allows a User Mode Write AV starting at FORMATS!Read_BadPNG+0x0000000000000115.
 >
@@ -575,7 +575,7 @@
 
 
 
-# CVE-2019-17254.
+# CVE-2019-17254
 ### Description
 > IrfanView 4.53 allows Data from a Faulting Address to control a subsequent Write Address starting at FORMATS!Read_BadPNG+0x0000000000000101.
 >
@@ -623,7 +623,7 @@
 
 
 
-# CVE-2019-17255.
+# CVE-2019-17255
 ### Description
 > IrfanView 4.53 allows a User Mode Write AV starting at EXR!ReadEXR+0x0000000000010836.
 >
@@ -666,7 +666,7 @@
 
 
 
-# CVE-2019-17256.
+# CVE-2019-17256
 ### Description
 > IrfanView 4.53 allows a
 > User Mode Write AV starting at DPX!ReadDPX_W+0x0000000000001203.
@@ -710,7 +710,7 @@
 
 
 
-# CVE-2019-17257.
+# CVE-2019-17257
 ### Description
 > IrfanView 4.53 allows a
 > Exception Handler Chain to be Corrupted starting at EXR!ReadEXR+0x000000000002af80.
@@ -754,7 +754,7 @@
 
 
 
-# CVE-2019-17258.
+# CVE-2019-17258
 ### Description
 > IrfanView 4.53 allows Data from a Faulting Address to control a subsequent Write Address starting at JPEG_LS+0x000000000000839c.
 >
@@ -797,7 +797,7 @@
 
 
 
-# CVE-2019-17259.
+# CVE-2019-17259
 ### Description
 > KMPlayer 4.2.2.31 allows a User Mode Write AV starting at utils!src_new+0x000000000014d6ee.
 >
@@ -917,7 +917,7 @@
 
 
 
-#Use CVE-2019-17262
+# Use CVE-2019-17262
 ### Description
 > XnView Classic 2.49.1 allows a User Mode Write AV starting at Xwsq+0x0000000000001fc0.
 >
